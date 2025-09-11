@@ -8,13 +8,13 @@ foreach ($_GET as $clave => $valor) {
 
 foreach ($_GET as $clave => $valor) {
     if ($valor === "" || $valor === null) {
-        echo "No se ha recibido ningún valor o es un valor vacío" . "<br>";
+        echo "[$clave]: No se ha recibido ningún valor o es un valor vacío" . "<br>";
             }
-        elseif ($valor >= 0) {
-            echo "El valor es un numero" . "<br>";
+        elseif (is_numeric($valor)) {
+            echo "[$clave]: El valor es un numero" . "<br>";
         }
             else {
-                echo "El valor es una cadena de caracteres". "<br>";
+                echo "[$clave]: El valor es una cadena de caracteres". "<br>";
     }
 }
 
