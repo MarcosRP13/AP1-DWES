@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88ae3405-9a0f-463a-bad2-71bf08c46a66" name="Changes" comment="AP1-2 corregido y mejorado">
-      <change afterPath="$PROJECT_DIR$/Docker DWES/Bloque_1/01-Refuerzo_PHP/Actividades/AP1-1/AP1-3.php" afterDir="false" />
+    <list default="true" id="88ae3405-9a0f-463a-bad2-71bf08c46a66" name="Changes" comment="AP1-3 antes de añadir variable suma">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker DWES/Bloque_1/01-Refuerzo_PHP/Actividades/AP1-1/AP1-3.php" beforeDir="false" afterPath="$PROJECT_DIR$/Docker DWES/Bloque_1/01-Refuerzo_PHP/Actividades/AP1-1/AP1-3.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757579006786</updated>
       <workItem from="1757579008228" duration="1196000" />
-      <workItem from="1757580356698" duration="1787000" />
+      <workItem from="1757580356698" duration="2794000" />
     </task>
     <task id="LOCAL-00001" summary="AP1-1 finalizado">
       <option name="closed" value="true" />
@@ -100,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757583482865</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="AP1-3 antes de añadir variable suma">
+      <option name="closed" value="true" />
+      <created>1757584291721</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757584291721</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +129,7 @@
     <MESSAGE value="AP1-1 finalizado" />
     <MESSAGE value="AP1-1, 2 finalizado" />
     <MESSAGE value="AP1-2 corregido y mejorado" />
-    <option name="LAST_COMMIT_MESSAGE" value="AP1-2 corregido y mejorado" />
+    <MESSAGE value="AP1-3 antes de añadir variable suma" />
+    <option name="LAST_COMMIT_MESSAGE" value="AP1-3 antes de añadir variable suma" />
   </component>
 </project>
