@@ -1,0 +1,58 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"88ae3405-9a0f-463a-bad2-71bf08c46a66\" name=\"Changes\" comment=\"AP1-4 finalizado\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Docker DWES/Bloque_1/01-Refuerzo_PHP/Actividades/AP1-1/AP1-2.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Docker DWES/Bloque_1/01-Refuerzo_PHP/Actividades/AP1-1/AP1-2.php\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"PHP File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"Marcos &lt;marcosrodriguez@gmail.com&gt;\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;MarcosRP13&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/MarcosRP13/AP1-DWES.git\",\r\n    \"accountId\": \"06310864-4efc-4e97-8a8d-8fb6f6bb19c0\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 7\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"32XtzPMb3nA798fOWPakwqf0Gtw\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"junie.onboarding.icon.badge.shown\": \"true\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"to.speed.mode.migration.done\": \"true\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PS-252.25557.128\" />\r\n        <option value=\"bundled-php-predefined-a98d8de5180a-ce40d0652d34-com.jetbrains.php.sharedIndexes-PS-252.25557.128\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"88ae3405-9a0f-463a-bad2-71bf08c46a66\" name=\"Changes\" comment=\"\" />\r\n      <created>1757579006786</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1757579006786</updated>\r\n      <workItem from=\"1757579008228\" duration=\"1196000\" />\r\n      <workItem from=\"1757580356698\" duration=\"2794000\" />\r\n      <workItem from=\"1757607397184\" duration=\"883000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"AP1-1 finalizado\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1757580091308</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1757580091308</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"AP1-1, 2 finalizado\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1757582867154</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1757582867154</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"AP1-2 corregido y mejorado\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1757583482865</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1757583482865</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"AP1-3 antes de añadir variable suma\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1757584291721</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1757584291721</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"AP1-4 finalizado\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1757608111827</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1757608111827</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"AP1-1 finalizado\" />\r\n    <MESSAGE value=\"AP1-1, 2 finalizado\" />\r\n    <MESSAGE value=\"AP1-2 corregido y mejorado\" />\r\n    <MESSAGE value=\"AP1-3 antes de añadir variable suma\" />\r\n    <MESSAGE value=\"AP1-4 finalizado\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"AP1-4 finalizado\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 26607c61ed07cfad5cdaf1cda5e3deb00d386cbf)
++++ b/.idea/workspace.xml	(date 1757608341832)
+@@ -4,10 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="88ae3405-9a0f-463a-bad2-71bf08c46a66" name="Changes" comment="AP1-4 finalizado">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Docker DWES/Bloque_1/01-Refuerzo_PHP/Actividades/AP1-1/AP1-2.php" beforeDir="false" afterPath="$PROJECT_DIR$/Docker DWES/Bloque_1/01-Refuerzo_PHP/Actividades/AP1-1/AP1-2.php" afterDir="false" />
+-    </list>
++    <list default="true" id="88ae3405-9a0f-463a-bad2-71bf08c46a66" name="Changes" comment="AP1-2 mas aclarado y legible" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -84,7 +81,7 @@
+       <updated>1757579006786</updated>
+       <workItem from="1757579008228" duration="1196000" />
+       <workItem from="1757580356698" duration="2794000" />
+-      <workItem from="1757607397184" duration="883000" />
++      <workItem from="1757607397184" duration="936000" />
+     </task>
+     <task id="LOCAL-00001" summary="AP1-1 finalizado">
+       <option name="closed" value="true" />
+@@ -126,7 +123,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1757608111827</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="AP1-2 mas aclarado y legible">
++      <option name="closed" value="true" />
++      <created>1757608323031</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1757608323031</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -149,6 +154,7 @@
+     <MESSAGE value="AP1-2 corregido y mejorado" />
+     <MESSAGE value="AP1-3 antes de añadir variable suma" />
+     <MESSAGE value="AP1-4 finalizado" />
+-    <option name="LAST_COMMIT_MESSAGE" value="AP1-4 finalizado" />
++    <MESSAGE value="AP1-2 mas aclarado y legible" />
++    <option name="LAST_COMMIT_MESSAGE" value="AP1-2 mas aclarado y legible" />
+   </component>
+ </project>
+\ No newline at end of file

@@ -1,0 +1,14 @@
+<changelist name="Uncommitted_changes_before_Update_at_11_09_2025_18_15_[Changes]1" date="1757607342894" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_09_2025_18_15_[Changes]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 11/09/2025 18:15 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="Docker DWES/.db_mysql/aria_log.00000001" />
+    <option name="AFTER_PATH" value="Docker DWES/.db_mysql/aria_log.00000001" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_09_2025_18_15_[Changes]1/aria_log.00000001" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Docker DWES/.db_mysql/aria_log_control" />
+    <option name="AFTER_PATH" value="Docker DWES/.db_mysql/aria_log_control" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_09_2025_18_15_[Changes]1/aria_log_control" />
+  </binary>
+</changelist>

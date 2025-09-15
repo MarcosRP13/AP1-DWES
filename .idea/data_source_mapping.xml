@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/bfa8ca59-8d64-4c91-abad-131cb9e9b4dd/console.sql" value="bfa8ca59-8d64-4c91-abad-131cb9e9b4dd" />
+    <file url="file://$PROJECT_DIR$/Docker DWES/.BBDD_archive/AP1.sql" value="bfa8ca59-8d64-4c91-abad-131cb9e9b4dd" />
+  </component>
+</project>
