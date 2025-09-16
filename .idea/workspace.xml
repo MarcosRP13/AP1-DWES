@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88ae3405-9a0f-463a-bad2-71bf08c46a66" name="Changes" comment="AP1-2 mas aclarado y legible">
+    <list default="true" id="88ae3405-9a0f-463a-bad2-71bf08c46a66" name="Changes" comment="AP1-5 punto 2 acabado">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/cdeafd06-4440-4e8a-9c2f-4b27cd71b9f4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/cdeafd06-4440-4e8a-9c2f-4b27cd71b9f4/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docker DWES/.db_mysql/ddl_recovery.log" beforeDir="false" afterPath="$PROJECT_DIR$/Docker DWES/.db_mysql/ddl_recovery.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docker DWES/.db_mysql/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/Docker DWES/.db_mysql/ib_logfile0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Docker DWES/Bloque_1/01-Refuerzo_PHP/Actividades/AP1-1/AP1-5.php" beforeDir="false" afterPath="$PROJECT_DIR$/Docker DWES/Bloque_1/01-Refuerzo_PHP/Actividades/AP1-1/AP1-5.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,13 +16,6 @@
   </component>
   <component name="ComposerSettings">
     <execution />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="PHP File" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -46,7 +34,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/MarcosRP13/AP1-DWES.git&quot;,
-    &quot;accountId&quot;: &quot;06310864-4efc-4e97-8a8d-8fb6f6bb19c0&quot;
+    &quot;accountId&quot;: &quot;2ae6ed89-67b1-4db7-b1ba-203cac12bc4c&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -61,16 +49,13 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -79,14 +64,24 @@
     ]
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="AP1.sql" type="DatabaseScript" editBeforeRun="true" focusToolWindowBeforeRun="true" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Database Script.AP1.sql and 4 more">
+    <configuration name="AP1.sql and 4 more" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/Docker DWES/.BBDD_archive/AP1.sql" />
+      <script-file value="$PROJECT_DIR$/Docker DWES/.BBDD_archive/Ap5.sql" />
+      <script-file value="$PROJECT_DIR$/Docker DWES/.BBDD_archive/empresa.sql" />
+      <script-file value="$PROJECT_DIR$/Docker DWES/.BBDD_archive/todolist.sql" />
+      <script-file value="$PROJECT_DIR$/Docker DWES/.BBDD_archive/login_demo.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="AP1.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
       <script-file value="$PROJECT_DIR$/Docker DWES/.BBDD_archive/AP1.sql" />
       <script-mode>FILE</script-mode>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Database Script.AP1.sql and 4 more" />
         <item itemvalue="Database Script.AP1.sql" />
       </list>
     </recent_temporary>
@@ -94,10 +89,13 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PS-252.25557.128" />
-        <option value="bundled-php-predefined-a98d8de5180a-ce40d0652d34-com.jetbrains.php.sharedIndexes-PS-252.25557.128" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PS-251.23774.466" />
+        <option value="bundled-php-predefined-a98d8de5180a-aaeaa8632555-com.jetbrains.php.sharedIndexes-PS-251.23774.466" />
       </set>
     </attachedChunks>
+  </component>
+  <component name="StructureViewState">
+    <option name="selectedTab" value="PHP" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -108,8 +106,8 @@
       <updated>1757579006786</updated>
       <workItem from="1757579008228" duration="1196000" />
       <workItem from="1757580356698" duration="2794000" />
-      <workItem from="1757607397184" duration="883000" />
-      <workItem from="1757956633527" duration="3064000" />
+      <workItem from="1757661199838" duration="3428000" />
+      <workItem from="1757931223677" duration="4815000" />
     </task>
     <task id="LOCAL-00001" summary="AP1-1 finalizado">
       <option name="closed" value="true" />
@@ -143,15 +141,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757584291721</updated>
     </task>
-    <task id="LOCAL-00005" summary="AP1-4 finalizado">
+    <task id="LOCAL-00005" summary="AP1-3 antes de añadir variable suma">
       <option name="closed" value="true" />
-      <created>1757608111827</created>
+      <created>1757661356156</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1757608111827</updated>
+      <updated>1757661356156</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="AP1-5 punto 2 acabado">
+      <option name="closed" value="true" />
+      <created>1757936486483</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757936486483</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +179,7 @@
     <MESSAGE value="AP1-1, 2 finalizado" />
     <MESSAGE value="AP1-2 corregido y mejorado" />
     <MESSAGE value="AP1-3 antes de añadir variable suma" />
-    <MESSAGE value="AP1-4 finalizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="AP1-4 finalizado" />
+    <MESSAGE value="AP1-5 punto 2 acabado" />
+    <option name="LAST_COMMIT_MESSAGE" value="AP1-5 punto 2 acabado" />
   </component>
 </project>
