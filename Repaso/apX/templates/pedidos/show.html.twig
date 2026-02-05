@@ -1,0 +1,42 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Pedidos{% endblock %}
+
+{% block body %}
+    <h1>Pedidos</h1>
+
+    <table class="table">
+        <tbody>
+            <tr>
+                <th>Id</th>
+                <td>{{ pedido.id }}</td>
+            </tr>
+            <tr>
+                <th>Date_order</th>
+                <td>{{ pedido.dateOrder ? pedido.dateOrder|date('Y-m-d') : '' }}</td>
+            </tr>
+            <tr>
+                <th>Date_ent</th>
+                <td>{{ pedido.dateEnt ? pedido.dateEnt|date('Y-m-d') : '' }}</td>
+            </tr>
+            <tr>
+                <th>Quantity</th>
+                <td>{{ pedido.quantity }}</td>
+            </tr>
+            <tr>
+                <th>State</th>
+                <td>{{ pedido.state }}</td>
+            </tr>
+            <tr>
+                <th>Observation</th>
+                <td>{{ pedido.observation }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_pedidos_index') }}">back to list</a>
+
+    <a href="{{ path('app_pedidos_edit', {'id': pedido.id}) }}">edit</a>
+
+    {{ include('pedidos/_delete_form.html.twig') }}
+{% endblock %}

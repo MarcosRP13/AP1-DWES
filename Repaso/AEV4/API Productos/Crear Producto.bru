@@ -1,0 +1,25 @@
+meta {
+  name: Crear Producto
+  type: http
+  seq: 3
+}
+
+post {
+  url: http://127.0.0.1:8000/api/products
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+    "name": "JoseBurguer",
+    "price": 10.95,
+    "stock": 10,
+    "category": 50
+  }
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

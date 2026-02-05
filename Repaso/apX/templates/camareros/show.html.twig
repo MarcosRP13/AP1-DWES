@@ -1,0 +1,54 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Camareros{% endblock %}
+
+{% block body %}
+    <h1>Camareros</h1>
+
+    <table class="table">
+        <tbody>
+            <tr>
+                <th>Id</th>
+                <td>{{ camarero.id }}</td>
+            </tr>
+            <tr>
+                <th>Name</th>
+                <td>{{ camarero.name }}</td>
+            </tr>
+            <tr>
+                <th>LastName</th>
+                <td>{{ camarero.lastName }}</td>
+            </tr>
+            <tr>
+                <th>Dni</th>
+                <td>{{ camarero.dni }}</td>
+            </tr>
+            <tr>
+                <th>Telephone</th>
+                <td>{{ camarero.telephone }}</td>
+            </tr>
+            <tr>
+                <th>Email</th>
+                <td>{{ camarero.email }}</td>
+            </tr>
+            <tr>
+                <th>Date_cont</th>
+                <td>{{ camarero.dateCont ? camarero.dateCont|date('Y-m-d') : '' }}</td>
+            </tr>
+            <tr>
+                <th>Shift</th>
+                <td>{{ camarero.shift }}</td>
+            </tr>
+            <tr>
+                <th>Active</th>
+                <td>{{ camarero.active ? 'Yes' : 'No' }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_camareros_index') }}">back to list</a>
+
+    <a href="{{ path('app_camareros_edit', {'id': camarero.id}) }}">edit</a>
+
+    {{ include('camareros/_delete_form.html.twig') }}
+{% endblock %}
